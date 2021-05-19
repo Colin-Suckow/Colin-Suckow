@@ -4,7 +4,8 @@
 - Aspiring systems programmer
 - Aerospace and Formula 1 nerd
 - Unabashed rustacean
-- Computer Science student at Oregon State University Cascades 
+- Computer Science student at Oregon State University Cascades
+- Linux lover 
 - Computer Science Club President at OSU Cascades 
 - Emulator enthusiast
 
