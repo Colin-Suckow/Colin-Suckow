@@ -21,3 +21,4 @@
 - Finishing my Junior year of college
 - Watching Boca Chica livestreams
 - Working on my playstation emulator
+- Interning at [Novunex](https://novunex.com/)
