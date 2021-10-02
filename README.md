@@ -18,7 +18,6 @@
 - [Draw some very monochrome graphics with an Altera FPGA](https://github.com/Colin-Suckow/fpga_vga_display)
 
 #### What am I up to now?
-- Finishing my Junior year of college
+- Working through my senior year of college
 - Watching Boca Chica livestreams
 - Working on my playstation emulator
-- Interning at [Novunex](https://novunex.com/)
