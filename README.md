@@ -1,7 +1,6 @@
 ### Thanks for taking a look at my profile!
 
 #### Who am I?
-- Aspiring systems programmer
 - Aerospace and Formula 1 nerd
 - Unabashed rustacean
 - Computer Science student at Oregon State University Cascades
