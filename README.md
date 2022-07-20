@@ -17,6 +17,6 @@
 - [Draw some very monochrome graphics with an Altera FPGA](https://github.com/Colin-Suckow/fpga_vga_display)
 
 #### What am I up to now?
-- Working through my senior year of college
+- Looking for work :)
 - Watching Boca Chica livestreams
 - Working on my playstation emulator
